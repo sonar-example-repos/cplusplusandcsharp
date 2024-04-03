@@ -1,5 +1,7 @@
 # Sample C++ with C# Project
 
+**See also: https://github.com/alejandro-alvarez-sonarsource/windows-msbuild-dotnet-cpp-azure-sc**
+
 This project contains a single Cpp and single C# project combined in a single solution file. Note that these projects are indepedent of each other and do not contain interop code. This repository contains a sample Jenkinsfile.
 
 ### Requirements
